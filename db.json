@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "username": "meet",
+      "email": "meet@gmail.com",
+      "password": "5533",
+      "role": "1",
+      "id": 1
+    },
+    {
+      "username": "rushi",
+      "email": "rushi@gmail.com",
+      "password": "111",
+      "role": "1",
+      "id": 2
+    },
+    {
+      "username": "virat",
+      "email": "virat@gmail.com",
+      "password": "1111",
+      "role": "2",
+      "id": 3
+    },
+    {
+      "username": "meet",
+      "email": "meet@gmail.com",
+      "password": "111",
+      "role": "2",
+      "id": 4
+    },
+    {
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "123",
+      "role": "2",
+      "id": 5
+    },
+    {
+      "username": "viral",
+      "email": "viral@gmail.com",
+      "password": "1111",
+      "role": "2",
+      "id": 6
+    },
+    {
+      "username": "kamesh",
+      "email": "kamesh@gmail",
+      "password": "123",
+      "role": "2",
+      "id": 7
+    },
+    {
+      "username": "harsh",
+      "email": "harsh@gmail.com",
+      "password": "kasti",
+      "role": "2",
+      "id": 8
+    },
+    {
+      "username": "amit",
+      "email": "amit@gmail.com",
+      "password": "11111",
+      "role": "2",
+      "id": 9
+    },
+    {
+      "username": "parth",
+      "email": "parth@gmail.com",
+      "password": "123",
+      "role": "2",
+      "id": 10
+    }
+  ]
+}
